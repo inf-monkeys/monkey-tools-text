@@ -8,3 +8,4 @@ selenium
 unstructured
 vines_worker_sdk
 pyyaml
+python-docx

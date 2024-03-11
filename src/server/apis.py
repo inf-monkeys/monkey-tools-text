@@ -793,7 +793,7 @@ class TextReplace(Resource):
 
 
 @text_ns.route("/text-segment")
-class TextSegmentResource():
+class TextSegmentResource(Resource):
     @text_ns.doc('text_segment')
     @text_ns.vendor({
         "x-monkey-tool-name": "text_segment",

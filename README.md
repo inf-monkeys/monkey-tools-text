@@ -9,6 +9,11 @@
 brew install mupdf swig freetype
 ```
 
+执行 `pip install "paddleocr>=2.0.1" --upgrade PyMuPDF==1.21.1`
+手动安装 `paddleocr` 依赖。(见 [https://github.com/PaddlePaddle/PaddleOCR/issues/9761])
+
+然后在执行 `pip install -r requiremens.txt`
+
 3. 初始化 venv 环境
 
 ```shell
