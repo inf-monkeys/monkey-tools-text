@@ -1,0 +1,9 @@
+s3:
+  accessKeyId:
+  secretAccessKey:
+  endpoint:
+  region:
+  bucket:
+  publicUrl:
+
+

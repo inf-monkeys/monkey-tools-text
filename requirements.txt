@@ -1,0 +1,10 @@
+flask
+flask_restx
+langchain
+load
+paddleocr
+paddlepaddle
+selenium
+unstructured
+vines_worker_sdk
+pyyaml
